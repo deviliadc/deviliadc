@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'am **Devilia Dwi Candra**.  
-An Information Systems student who is passionate about Android and data development. During my college years, I gained knowledge and expertise in system analysis, software design, and programming. I am well-versed in programming languages and frameworks such as HTML, Kotlin, Python and have experience in both mobile and web application development. My desire to learn and innovate, combined with a deep interest in application development.
+
 
 <p align="left">
 <a href="https://github.com/deviliadc">
